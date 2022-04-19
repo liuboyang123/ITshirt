@@ -3,3 +3,6 @@ add func 1
 
 설명 업데이트 
 add func2
+
+개발자 목록 추가
+add func3
