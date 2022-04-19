@@ -12,3 +12,6 @@ add func4
 
 디테일 페이지 추가 
 add func5
+
+a
+add fun6
