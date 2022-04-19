@@ -6,3 +6,6 @@ add func2
 
 개발자 목록 추가
 add func3
+
+티셔츠, 기능리스트 추가
+add func4
