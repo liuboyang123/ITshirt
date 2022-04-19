@@ -9,3 +9,6 @@ add func3
 
 티셔츠, 기능리스트 추가
 add func4
+
+디테일 페이지 추가 
+add func5
