@@ -1,2 +1,5 @@
 디테일 페이지 추가 
 add func1
+
+fun1
+add func2
